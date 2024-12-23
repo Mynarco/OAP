@@ -41,11 +41,4 @@
 </ol>
 
 ## Скриншот игры
-
-<p align="center">
-  <img src="image.png" alt="https://github.com/user-attachments/assets/17603247-59b2-4c00-b546-81fc0f6d6823">
-</p>
-
-
-## Скриншот игры
 ![image](https://github.com/user-attachments/assets/17603247-59b2-4c00-b546-81fc0f6d6823)
