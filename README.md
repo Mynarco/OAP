@@ -35,5 +35,5 @@
    - Выберите "Run Python" > "Run Python File in Terminal".
 
 ## Скриншот игры
-*(Здесь будет изображение: image)*
+![image](https://github.com/user-attachments/assets/17603247-59b2-4c00-b546-81fc0f6d6823)
 
