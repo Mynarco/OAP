@@ -43,7 +43,7 @@
 ## Скриншот игры
 
 <p align="center">
-  <img src="image.png" alt="Скриншот игры">
+  <img src="image.png" alt="[Скриншот игры](https://github.com/user-attachments/assets/17603247-59b2-4c00-b546-81fc0f6d6823)">
 </p>
 
 
